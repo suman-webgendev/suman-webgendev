@@ -1,3 +1,3 @@
-```javascript filename="app.js"
-  console.log("Hi")
-```
+<!-- Filename: app.js -->
+```javascript
+console.log("Hello, world!");
