@@ -1,3 +1,3 @@
-<!-- Filename: app.js -->
-```javascript
+```javascript title="example.js"
 console.log("Hello, world!");
+```
